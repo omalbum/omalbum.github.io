@@ -219,7 +219,7 @@ main {
 
 main h1 {
     padding-top: 20px;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: normal;
 	color: var(--omalbum-lightblue);
 }
@@ -769,6 +769,10 @@ tbody td {
 
  th {
   text-align: center;
+}
+
+li {
+   margin:0 0 10px 0;   
 }
 
 /********************************************************************/
